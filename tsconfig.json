@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true,
+  },
+  "include": ["src/**/*.ts"]
+}
